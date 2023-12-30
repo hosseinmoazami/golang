@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	readNameFile("lectures/demo/defer/names")
+	readNameFile("names")
 }
 
 func readNameFile(fileName string) {
